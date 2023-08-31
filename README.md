@@ -8,14 +8,14 @@ The website gets data from public API ,based on the type chosen by the user
 
 
 
-# Here is screen shots of the website
+# Here is screenshots of the website
 
-![Screen Shot 1445-02-15 at 9 11 07 PM](https://github.com/HanenAljadani/Activity_API_Project/assets/98253428/31f7fefe-6b09-4e09-aab6-441988110dee)
+![Screen Shot 1445-02-15 at 9 11 07 PM](https://github.com/HanenAljadani/Activity_API_Project/assets/98253428/ff188a17-253d-4bd1-b64e-a06634858cad)
 
 
 
-![Screen Shot 1445-02-15 at 9 11 15 PM](https://github.com/HanenAljadani/Activity_API_Project/assets/98253428/cd15b79f-71f3-4240-a03f-93c4a6662fc3)
 
+![Screen Shot 1445-02-15 at 9 11 15 PM](https://github.com/HanenAljadani/Activity_API_Project/assets/98253428/69028652-c19e-42f7-8b7d-2567818814ce)
 
 
 
