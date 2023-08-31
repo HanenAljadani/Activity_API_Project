@@ -4,7 +4,9 @@ The website gets data from public API, based on the type chosen by the user
 --->    https://www.boredapi.com/api/activity
 
 
-(NOTE run after cloning the project ) ---> npm install 
+(NOTE run after cloning the project ) ---> 
+```bash
+npm install 
 
 
 
