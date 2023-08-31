@@ -1,8 +1,8 @@
 ## Next.js Website with  API 
 
-The website gets data from public API 
---->    https://www.boredapi.com/api/activity?
-Based on the type chosen by the user
+The website gets data from public API ,based on the type chosen by the user
+--->    https://www.boredapi.com/api/activity
+
 
 (NOTE run after cloning the project ) ---> npm install 
 
