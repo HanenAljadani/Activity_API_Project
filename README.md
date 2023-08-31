@@ -7,7 +7,7 @@ The website gets data from public API, based on the type chosen by the user
 (NOTE run after cloning the project ) ---> 
 ```bash
 npm install 
-
+```
 
 
 # Here are screenshots of the website
